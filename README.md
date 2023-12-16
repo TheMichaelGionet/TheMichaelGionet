@@ -1,7 +1,7 @@
 - Hi, I’m Michael Gionet (TheMichaelGionet)
-- My academic interests hover between mathematics, computer engineering, and neuroscience.
-- I am currently in my 4A term at the University of Waterloo for Computer Engineering.
-- The purpose of this github is to post my personal projects. The last one I've made available is a RISC-V virtual machine.
+- My academic interests hover between mathematics and computer engineering.
+- I am currently in my 4B term at the University of Waterloo for Computer Engineering.
+- The purpose of this github is to post my personal and research projects. The last one I've made available is a RISC-V virtual machine.
 
 <!---
 TheMichaelGionet/TheMichaelGionet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
